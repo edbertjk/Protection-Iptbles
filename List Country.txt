@@ -1,0 +1,9 @@
+us = usa
+id = indo
+ph = philip
+tr = turk
+fi = finland
+my = malay
+lv = latvia
+lb = lebanon
+lt = lithuania
