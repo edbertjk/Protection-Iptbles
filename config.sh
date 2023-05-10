@@ -1,3 +1,6 @@
+echo "ESP METHOD HANDLE~~~"
+iptables -A INPUT -p esp -j DROP
+
 echo "ICMP METHOD HANDLE~~~"
 iptables -A INPUT -p icmp --icmp-type echo-request -j DROP
 
